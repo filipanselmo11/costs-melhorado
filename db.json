@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "id": "94cd",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "name": "Site da Escola",
+      "budget": "2400",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "223c",
+      "name": "Outro Projeto",
+      "budget": "4000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "8c4c",
+      "name": "Mais outro Projeto 2",
+      "budget": "1234",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
